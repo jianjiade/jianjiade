@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TCOM](https://trip.com)
+- 🔭 I’m currently working on [T.COM](https://trip.com)
 
 <!--
 **jianjiade/jianjiade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
