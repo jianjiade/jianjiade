@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [T.COM](https://trip.com)
-
+- 🤔 我擅长挖坑且不填坑 ...
+- 💬 Ask me about ...
 <!--
 **jianjiade/jianjiade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
